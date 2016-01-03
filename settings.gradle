@@ -1,0 +1,2 @@
+include ':app',':YandexSpeechKit'
+project(':YandexSpeechKit').projectDir = new File('libs/YandexSpeechKit')

@@ -1,0 +1,6 @@
+# view res/layout/bro_common_speech_search_dialog.xml #generated:35
+-keep class ru.yandex.speechkit.gui.CirclesAnimationView { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class ru.yandex.speechkit.gui.RecognizerActivity { <init>(...); }
+

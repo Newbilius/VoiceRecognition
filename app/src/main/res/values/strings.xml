@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voice Recognizer</string>
+    <string name="startRecognitionButton_title">Start Recognition</string>
+    <string name="recognitionStatusLabelHint_title">Recognition status:</string>
+</resources>
