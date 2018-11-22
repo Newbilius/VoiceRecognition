@@ -1,11 +1,11 @@
-# Voice Recognition
+# Распознавание голоса
 
-Simple "Yandex vs Google" voice recognition experiment.
+Эксперимент по сравнению библиотек распознавания голоса от Яндекса и Google
 
-Google documentation:
+Документация от Google:
 http://developer.android.com/intl/ru/reference/android/speech/SpeechRecognizer.html
 
-Yandex documentation:
+Документация от Яндекса:
 https://tech.yandex.ru/speechkit/mobilesdk/
 
-![(screenshot)](/screens/screen01.png?raw=true "(screenshot)")
+![(screenshot)](/screens/screen01.png "(screenshot)")
